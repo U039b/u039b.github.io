@@ -1,0 +1,17 @@
+baseURL = "https://esther.codes/"
+languageCode = "en-us"
+title = "Esther's homepage"
+theme = "m10c"
+
+[params]
+  author = "Esther Onfroy"
+  description = "Purple hacker, mobile security/privacy researcher, malware RE."
+  menu_item_separator = " - "
+
+ # Purple theme
+[params.style]
+  darkestColor = "#7122da"
+  darkColor = "#212121"
+  lightColor = "#d6d6d6"
+  lightestColor = "#A991D4"
+  primaryColor = "#A991D4"  
