@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/u039b
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://esther.codes
+  * I am u039b (https://keybase.io/u039b) on keybase.
+  * I have a public key ASCY4xL9O6IzGE7zZbTT4kLtLauCAkKsihd7NVrDYRu1Hwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201221107b7080a76e133df3036b181877710101b1d1970db7cdb8c8d79afe27070a",
+      "host": "keybase.io",
+      "kid": "012098e312fd3ba233184ef365b4d3e242ed2dab820242ac8a177b355ac3611bb51f0a",
+      "uid": "e7afcf5a619bc26fb379e1acdf3b4e19",
+      "username": "u039b"
+    },
+    "merkle_root": {
+      "ctime": 1669740327,
+      "hash": "e7dd2227a029caef0d80ef217de3d3d152a2ecd8f67f9a5d7a18751fc00ba865a211b0b3ae0143f0f0ad880572ebaabe8e65c8ea1da40e5f6be71b182a2b9474",
+      "hash_meta": "462a8a0ea4bf93599638c19fa161bfe194df25b812726f61b69bfce846f354b6",
+      "seqno": 23635645
+    },
+    "service": {
+      "entropy": "BthoKgPKBwbP/mGk3abYUzCw",
+      "hostname": "esther.codes",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1669740369,
+  "expire_in": 504576000,
+  "prev": "64886f7ed63168cc309d46b9384024fd6d10ce631f1936d6e1b45b3842acf5a9",
+  "seqno": 29,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmOMS/TuiMxhO82W00+JC7S2rggJCrIoXezVaw2EbtR8Kp3BheWxvYWTESpcCHcQgZIhvftYxaMwwnUa5OEAk/W0QzmMfGTbW4bRbOEKs9anEIBLcXiGk66ynEN78GIsMPLfieeuJfT7gP3RFsLuMbeEdAgHCo3NpZ8RARr2VO3QbQbGiGy/X7XLnxghNxxEPhw/Nb01ZHLoQIp+EgeFujUtuX5/rBiUz/lMK2K0E7g/pV9uXj27R0MPwC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOgSqHMred836UXbAPu9QLRjcWZD7UBVffPVpLFCwU65o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/u039b
+
+==================================================================
