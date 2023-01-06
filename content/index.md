@@ -9,6 +9,19 @@
  * Mastodon: [@U039b@mastodon.social](https://mastodon.social/@U039b)
  * Mail: `hello(at)0x39b.fr`
 
+## Publications & Research
+
+* **PiRogue Tool Suite project** on *Dec. 31 2022* - [Year 2022 in Review](https://pts-project.org/blog/year-2022-in-review/)
+* **Defensive Lab Agency & Human Rights Watch** on *May 25 2022* - [“How Dare They Peep into My Private Life?”](https://www.hrw.org/report/2022/05/25/how-dare-they-peep-my-private-life/childrens-rights-violations-governments)
+* **PiRogue Tool Suite project** on *Jan. 26 2022* - [project launch](https://pts-project.org/)
+* **Defensive Lab Agency & Amnesty International** on *Sep. 25 2020* - [FinSpy spyware analysis](https://defensive-lab.agency/2020/09/finspy-android/)
+* **Defensive Lab Agency & Wall Street Journal** on *Feb. 26 2019* - [Analyses d'applications mobiles](https://defensive-lab.agency/2019/02/retour-sur-nos-analyses-dapplications-mobiles-utilisant-facebook-realisees-pour-le-wall-street-journal/) (French)
+* **Exodus Privacy** on *Nov. 24 2018* - [Study on the impact of the GDPR](https://exodus-privacy.eu.org/en/post/etude-rgpd-avant-apres/)
+* **Exodus Privacy** on *Aug. 17 2018* - [εxodus static analysis](https://exodus-privacy.eu.org/en/post/exodus_static_analysis/)
+* **PiRanhaLysis** on *Mar. 10 2018* - [project launch - later rebooted as PTS](https://pts-project.org/)
+* **Exodus Privacy** on *Feb. 28 2018* - [Meeting with the CNIL](https://exodus-privacy.eu.org/en/post/retour-sur-notre-rencontre-avec-la-cnil/)
+* **Exodus Privacy** on *Nov. 17 2017* - [project launch](https://exodus-privacy.eu.org)
+
 ## Talks
  * **Bercy - PEReN** on *Sep. 19 2022* - Paris (France)
  * **Centre Hubertine-Auclert** on *Jun. 28 2022* - Online - [Details](https://m.centre-hubertine-auclert.fr/article/webinaire-la-cybersurveillance-au-sein-du-couple-les-enjeux-autour-de-la-geolocalisation-28)
