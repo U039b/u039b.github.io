@@ -18,7 +18,7 @@
 * [VHS](https://github.com/HumanRightsWatch/VHS) - Main maintainer (2021-present)
 * [La Résille](https://laresille.fr/) - Co-founder and animator (2021-present)
 * [Echap](https://echap.eu.org/) - Co-founder and board member (2020-2022)
-* [Pithus](https://beta.pithus.org/) - Co-founder and technical lead (2020-present)
+* [Pithus](https://beta.pithus.org/) - Founder and technical lead (2020-present)
 * [Defensive Lab Agency](https://defensive-lab.agency/) - Founder and CEO (2019-present)
 * [Exodus Privacy](https://exodus-privacy.eu.org/en/) - Co-founder, vice president and technical lead (2017-present)
 
@@ -26,7 +26,7 @@
 ## Publications & Research
 
 * *”Year 2022 in Review”* - Esther Onfroy, PiRogue Tool Suite, *Dec. 31 2022* - [article](https://pts-project.org/blog/year-2022-in-review/)
-* *”How Dare They Peep into My Private Life?”* -Hye Jung Han, Human Rights Watch, *May 25 2022* - [article](https://www.hrw.org/report/2022/05/25/how-dare-they-peep-my-private-life/childrens-rights-violations-governments)
+* *”How Dare They Peep into My Private Life?”* - Hye Jung Han, Human Rights Watch, *May 25 2022* - [article](https://www.hrw.org/report/2022/05/25/how-dare-they-peep-my-private-life/childrens-rights-violations-governments)
 * *”Project launch”* - Esther Onfroy, PiRogue Tool Suite, *Jan. 26 2022* - [project](https://pts-project.org/)
 * *”FinSpy spyware analysis”* - Esther Onfroy, Defensive Lab Agency, *Sep. 25 2020* - [article](https://defensive-lab.agency/2020/09/finspy-android/)
 * *“German-made FinSpy spyware found in Egypt, and Mac and Linux versions revealed”* - Amnesty International, *Sep. 25 2020* - [article](https://www.amnesty.org/en/latest/research/2020/09/german-made-finspy-spyware-found-in-egypt-and-mac-and-linux-versions-revealed/)
