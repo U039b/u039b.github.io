@@ -9,18 +9,34 @@
  * Mastodon: [@U039b@mastodon.social](https://mastodon.social/@U039b)
  * Mail: `hello(at)0x39b.fr`
 
+
+## Current positions
+
+* [Nos Oignons](https://nos-oignons.net/) - Ethics board (2023-present)
+* Shira - Advisory board (2022-present)
+* [PTS project](https://pts-project.org/) - Founder and main maintainer (2022-present)
+* [VHS](https://github.com/HumanRightsWatch/VHS) - Main maintainer (2021-present)
+* [La Résille](https://laresille.fr/) - Co-founder and animator (2021-present)
+* [Echap](https://echap.eu.org/) - Co-founder and board member (2020-2022)
+* [Pithus](https://beta.pithus.org/) - Co-founder and technical lead (2020-present)
+* [Defensive Lab Agency](https://defensive-lab.agency/) - Founder and CEO (2019-present)
+* [Exodus Privacy](https://exodus-privacy.eu.org/en/) - Co-founder, vice president and technical lead (2017-present)
+
+
 ## Publications & Research
 
-* **PiRogue Tool Suite project** on *Dec. 31 2022* - [Year 2022 in Review](https://pts-project.org/blog/year-2022-in-review/)
-* **Defensive Lab Agency & Human Rights Watch** on *May 25 2022* - [“How Dare They Peep into My Private Life?”](https://www.hrw.org/report/2022/05/25/how-dare-they-peep-my-private-life/childrens-rights-violations-governments)
-* **PiRogue Tool Suite project** on *Jan. 26 2022* - [project launch](https://pts-project.org/)
-* **Defensive Lab Agency & Amnesty International** on *Sep. 25 2020* - [FinSpy spyware analysis](https://defensive-lab.agency/2020/09/finspy-android/)
-* **Defensive Lab Agency & Wall Street Journal** on *Feb. 26 2019* - [Analyses d'applications mobiles](https://defensive-lab.agency/2019/02/retour-sur-nos-analyses-dapplications-mobiles-utilisant-facebook-realisees-pour-le-wall-street-journal/) (French)
-* **Exodus Privacy** on *Nov. 24 2018* - [Study on the impact of the GDPR](https://exodus-privacy.eu.org/en/post/etude-rgpd-avant-apres/)
-* **Exodus Privacy** on *Aug. 17 2018* - [εxodus static analysis](https://exodus-privacy.eu.org/en/post/exodus_static_analysis/)
-* **PiRanhaLysis** on *Mar. 10 2018* - [project launch - later rebooted as PTS](https://pts-project.org/)
-* **Exodus Privacy** on *Feb. 28 2018* - [Meeting with the CNIL](https://exodus-privacy.eu.org/en/post/retour-sur-notre-rencontre-avec-la-cnil/)
-* **Exodus Privacy** on *Nov. 17 2017* - [project launch](https://exodus-privacy.eu.org)
+* *”Year 2022 in Review”* - Esther Onfroy, PiRogue Tool Suite, *Dec. 31 2022* - [article](https://pts-project.org/blog/year-2022-in-review/)
+* *”How Dare They Peep into My Private Life?”* -Hye Jung Han, Human Rights Watch, *May 25 2022* - [article](https://www.hrw.org/report/2022/05/25/how-dare-they-peep-my-private-life/childrens-rights-violations-governments)
+* *”Project launch”* - Esther Onfroy, PiRogue Tool Suite, *Jan. 26 2022* - [project](https://pts-project.org/)
+* *”FinSpy spyware analysis”* - Esther Onfroy, Defensive Lab Agency, *Sep. 25 2020* - [article](https://defensive-lab.agency/2020/09/finspy-android/)
+* *“German-made FinSpy spyware found in Egypt, and Mac and Linux versions revealed”* - Amnesty International, *Sep. 25 2020* - [article](https://www.amnesty.org/en/latest/research/2020/09/german-made-finspy-spyware-found-in-egypt-and-mac-and-linux-versions-revealed/)
+* *”FinSpy spyware analysis”* - Esther Onfroy, Defensive Lab Agency, *Sep. 25 2020* - [article](https://defensive-lab.agency/2020/09/finspy-android/)
+* *“You Give Apps Sensitive Personal Information. Then They Tell Facebook.”* - Sam Schechner, Mark Secada, Wall Street Journal, *Feb 22 2019* - [article](https://www.wsj.com/articles/you-give-apps-sensitive-personal-information-then-they-tell-facebook-11550851636)
+* *“Study on the impact of the GDPR”* - Esther Onfroy, Exodus Privacy, *Nov. 24 2018* - [article](https://exodus-privacy.eu.org/en/post/etude-rgpd-avant-apres/)
+* *“εxodus static analysis”* - Esther Onfroy, Exodus Privacy, *Aug. 17 2018* - [article](https://exodus-privacy.eu.org/en/post/exodus_static_analysis/)
+* *“Project launch - later rebooted as PTS”* - Esther Onfroy, PiRanhaLysis, *Mar. 10 2018* - [project](https://pts-project.org/)
+* *“Meeting with the CNIL”* - Esther Onfroy, Exodus Privacy, *Feb. 28 2018* - [article](https://exodus-privacy.eu.org/en/post/retour-sur-notre-rencontre-avec-la-cnil/)
+* *“Project launch”* - Esther Onfroy, Exodus Privacy, *Nov. 17 2017* - [project](https://exodus-privacy.eu.org)
 
 ## Talks
  * **Bercy - PEReN** on *Sep. 19 2022* - Paris (France)
