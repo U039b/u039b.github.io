@@ -10,13 +10,13 @@
  * Mail: `hello(at)0x39b.fr`
 
 
-## Current positions
+## Positions
 
 * [Nos Oignons](https://nos-oignons.net/) - Ethics board (2023-present)
 * Shira - Advisory board (2022-present)
 * [PTS project](https://pts-project.org/) - Founder and main maintainer (2022-present)
 * [VHS](https://github.com/HumanRightsWatch/VHS) - Main maintainer (2021-present)
-* [La Résille](https://laresille.fr/) - Co-founder and animator (2021-present)
+* [La Résille](https://laresille.fr/) - Co-founder and animator (2020-present)
 * [Echap](https://echap.eu.org/) - Co-founder and board member (2020-2022)
 * [Pithus](https://beta.pithus.org/) - Founder and technical lead (2020-present)
 * [Defensive Lab Agency](https://defensive-lab.agency/) - Founder and CEO (2019-present)
