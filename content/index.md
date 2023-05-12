@@ -39,6 +39,7 @@
 * *“Project launch”* - Esther Onfroy, Exodus Privacy, *Nov. 17 2017* - [project](https://exodus-privacy.eu.org)
 
 ## Talks
+ * **Yale Privacy Lab** on *May 11 2023* - Online - [Details](https://privacylab.yale.edu/)
  * **Jdll** on *Apr. 1-2 2023* - Lyon (France) - [Details](https://jdll.org)
  * **Bercy - PEReN** on *Sep. 19 2022* - Paris (France)
  * **Centre Hubertine-Auclert** on *Jun. 28 2022* - Online - [Details](https://m.centre-hubertine-auclert.fr/article/webinaire-la-cybersurveillance-au-sein-du-couple-les-enjeux-autour-de-la-geolocalisation-28)
