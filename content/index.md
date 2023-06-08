@@ -61,6 +61,7 @@
  * **Internet et ses travers** on *Nov 7 2017* - Dojo Nantes (France)
 
 ## Press
+ * **Le Monde** on *Jun. 7 2023* - [Contre les violences conjugales, les gendarmes des Yvelines testent un outil pour détecter les logiciels espion](https://www.lemonde.fr/pixels/article/2023/06/07/contre-les-violences-conjugales-les-gendarmes-des-yvelines-testent-un-outil-pour-detecter-les-logiciels-espion_6176563_4408996.html)
  * **Ouest France** on *Oct. 17 2022* - [Le téléphone portable, cet espion qui vend nos données personnelles](https://www.ouest-france.fr/leditiondusoir/2022-10-17/le-telephone-portable-cet-espion-qui-vend-nos-donnees-personnelles-7987242a-0211-4c77-8814-4c73572f1453)
  * **Human Rights Watch** on *May 25 2022* - [“How Dare They Peep into My Private Life?”](https://www.hrw.org/report/2022/05/25/how-dare-they-peep-my-private-life/childrens-rights-violations-governments)
  * **The Markup** on *Feb. 24 2022* - [Who Is Policing the Location Data Industry?](https://themarkup.org/the-breakdown/2022/02/24/who-is-policing-the-location-data-industry)
