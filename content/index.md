@@ -39,6 +39,8 @@
 * *“Project launch”* - Esther Onfroy, Exodus Privacy, *Nov. 17 2017* - [project](https://exodus-privacy.eu.org)
 
 ## Talks
+
+ * **Digital Defenders Partnership** on *Sep. 22/Oct. 6 2023* - Online courses - [Details](https://www.digitaldefenders.org/introduction-to-forensics-of-mobile-devices-identification-of-spyware-and-documentation-of-digital-threats-with-a-human-rights-and-gender-perspective/)
  * **Yale Privacy Lab** on *May 11 2023* - Online - [Details](https://privacylab.yale.edu/)
  * **Jdll** on *Apr. 1-2 2023* - Lyon (France) - [Details](https://jdll.org)
  * **Bercy - PEReN** on *Sep. 19 2022* - Paris (France)
@@ -61,6 +63,7 @@
  * **Internet et ses travers** on *Nov 7 2017* - Dojo Nantes (France)
 
 ## Press
+
  * **Le Monde** on *Jun. 7 2023* - [Contre les violences conjugales, les gendarmes des Yvelines testent un outil pour détecter les logiciels espion](https://www.lemonde.fr/pixels/article/2023/06/07/contre-les-violences-conjugales-les-gendarmes-des-yvelines-testent-un-outil-pour-detecter-les-logiciels-espion_6176563_4408996.html)
  * **Ouest France** on *Oct. 17 2022* - [Le téléphone portable, cet espion qui vend nos données personnelles](https://www.ouest-france.fr/leditiondusoir/2022-10-17/le-telephone-portable-cet-espion-qui-vend-nos-donnees-personnelles-7987242a-0211-4c77-8814-4c73572f1453)
  * **Human Rights Watch** on *May 25 2022* - [“How Dare They Peep into My Private Life?”](https://www.hrw.org/report/2022/05/25/how-dare-they-peep-my-private-life/childrens-rights-violations-governments)
