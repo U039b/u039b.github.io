@@ -40,6 +40,7 @@
 
 ## Talks
 
+ * **Workshop on data access for research - PEReN and Arcom** on *Oct 12 2023* - Paris - [Details](https://www.peren.gouv.fr/en/actualites/2023-10-12_atelier_recherche/)
  * **Digital Defenders Partnership** on *Sep. 22/Oct. 6 2023* - Online courses - [Details](https://www.digitaldefenders.org/introduction-to-forensics-of-mobile-devices-identification-of-spyware-and-documentation-of-digital-threats-with-a-human-rights-and-gender-perspective/)
  * **Yale Privacy Lab** on *May 11 2023* - Online - [Details](https://privacylab.yale.edu/)
  * **Jdll** on *Apr. 1-2 2023* - Lyon (France) - [Details](https://jdll.org)
@@ -64,6 +65,7 @@
 
 ## Press
 
+ * **Heidi News** on *Nov 14 2023* - [Qui sont ces data brokers qui s’arrachent nos données comme si c’était de l’or?](https://www.heidi.news/explorations/razzia-sur-vos-data/qui-sont-ces-data-brokers-qui-s-arrachent-nos-donnees-comme-si-c-etait-de-l-or)
  * **Le Monde** on *Jun. 7 2023* - [Contre les violences conjugales, les gendarmes des Yvelines testent un outil pour détecter les logiciels espion](https://www.lemonde.fr/pixels/article/2023/06/07/contre-les-violences-conjugales-les-gendarmes-des-yvelines-testent-un-outil-pour-detecter-les-logiciels-espion_6176563_4408996.html)
  * **Ouest France** on *Oct. 17 2022* - [Le téléphone portable, cet espion qui vend nos données personnelles](https://www.ouest-france.fr/leditiondusoir/2022-10-17/le-telephone-portable-cet-espion-qui-vend-nos-donnees-personnelles-7987242a-0211-4c77-8814-4c73572f1453)
  * **Human Rights Watch** on *May 25 2022* - [“How Dare They Peep into My Private Life?”](https://www.hrw.org/report/2022/05/25/how-dare-they-peep-my-private-life/childrens-rights-violations-governments)
