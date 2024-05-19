@@ -13,15 +13,24 @@
 
 ## Positions
 
-* [Nos Oignons](https://nos-oignons.net/) - Ethics board (2023-present) - *French non-profit operating multiple tor exit nodes*
-* [PTS project](https://pts-project.org/) - Founder and main maintainer (2022-present) - *FOSS mobile device forensics and digital investigation platform*
-* [VHS](https://github.com/HumanRightsWatch/VHS) - Main maintainer (2021-present) - *FOSS media downloading and digital investigation platform developed by Human Rights Watch*
-* [La Résille](https://laresille.fr/) - Co-founder and facilitator (2021-present) - *French non-profit of hackers producing techno-feminist science-fiction*
-* [Echap](https://echap.eu.org/) - Co-founder and board member (2020-present) - *French non-profit fighting against the use of technology in gender-based violence*
-* [Pithus](https://beta.pithus.org/) - Founder and technical lead (2020-present) - *FOSS mobile threat intelligence platform*
-* [Defensive Lab Agency](https://defensive-lab.agency/) - Founder and CEO (2019-present) - *French company providing expert services on information security*
-* [Exodus Privacy](https://exodus-privacy.eu.org/en/) - Co-founder and technical lead (2017-present) - *French non-profit fighting against tracking SDKs in mobile apps*
-* [Shira](https://shira.app/) - Advisory board (2022-2024) - *online learning platform focusing on identifying and defeating phishing attempts*
+* [Nos Oignons](https://nos-oignons.net/) - Ethics board (2023-present)  
+  *French non-profit operating multiple tor exit nodes*
+* [PTS project](https://pts-project.org/) - Founder and main maintainer (2022-present)  
+  *FOSS mobile device forensics and digital investigation platform*
+* [VHS](https://github.com/HumanRightsWatch/VHS) - Main maintainer (2021-present)  
+  *FOSS media downloading and digital investigation platform developed by Human Rights Watch*
+* [La Résille](https://laresille.fr/) - Co-founder and facilitator (2021-present)  
+  *French non-profit of hackers producing techno-feminist science-fiction*
+* [Echap](https://echap.eu.org/) - Co-founder and board member (2020-present)  
+  *French non-profit fighting against the use of technology in gender-based violence*
+* [Pithus](https://beta.pithus.org/) - Founder and technical lead (2020-present)  
+  *FOSS mobile threat intelligence platform*
+* [Defensive Lab Agency](https://defensive-lab.agency/) - Founder and CEO (2019-present)  
+  *French company providing expert services on information security*
+* [Exodus Privacy](https://exodus-privacy.eu.org/en/) - Co-founder and technical lead (2017-present)  
+  *French non-profit fighting against tracking SDKs in mobile apps*
+* [Shira](https://shira.app/) - Advisory board (2022-2024)  
+  *online learning platform focusing on identifying and defeating phishing attempts*
 
 
 ## Publications & Research
