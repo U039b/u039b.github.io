@@ -13,6 +13,8 @@
 
 ## Positions
 
+* [PEReN](https://peren.gouv.fr) - Reverse engineering expert (2024-present)  
+  *Centre of expertise for digital platform regulation*
 * [Nos Oignons](https://nos-oignons.net/) - Ethics board (2023-present)  
   *French non-profit operating multiple tor exit nodes*
 * [PTS project](https://pts-project.org/) - Founder and main maintainer (2022-present)  
