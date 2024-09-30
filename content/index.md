@@ -52,7 +52,7 @@
 
 ## Talks
 
- * **EDPB** on *Sep. 18 2024* - Training on regulatory compliance aurdits with [PTS](https://pts-project.org) - Brussels
+ * **EDPB Bootcamp** on *Sep. 18 2024* - Training on regulatory compliance audits with [PTS](https://pts-project.org) - Brussels
  * **Workshop on data access for research - PEReN and Arcom** on *Oct. 12 2023* - Paris - [Details](https://www.peren.gouv.fr/en/actualites/2023-10-12_atelier_recherche/)
  * **Digital Defenders Partnership** on *Sep. 22/Oct. 6 2023* - Online courses - [Details](https://www.digitaldefenders.org/introduction-to-forensics-of-mobile-devices-identification-of-spyware-and-documentation-of-digital-threats-with-a-human-rights-and-gender-perspective/)
  * **Yale Privacy Lab** on *May 11 2023* - Online - [Details](https://privacylab.yale.edu/)
