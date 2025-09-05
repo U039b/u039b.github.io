@@ -13,7 +13,9 @@
 
 ## Positions
 
-* [PEReN](https://peren.gouv.fr) - Reverse engineering expert (2024-present)  
+* [No Stage Without Us](https://nswu.fr) - Co-founder and president (2025-present)  
+  *French non-profit advocating for greater inclusion and accessibility in festive environments and live performances.*
+* [PEReN](https://peren.gouv.fr) - Reverse engineering expert (2024-2024)  
   *Centre of expertise for digital platform regulation*
 * [Nos Oignons](https://nos-oignons.net/) - Ethics board (2023-present)  
   *French non-profit operating multiple tor exit nodes*
