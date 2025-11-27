@@ -13,7 +13,7 @@
 
 ## Positions
 
-* [No Stage Without Us](https://nswu.fr) - Co-founder and president (2025-present)  
+* [No Stage Without Us](https://nswu.fr) - Co-founder (2025-present)  
   *French non-profit advocating for greater inclusion and accessibility in festive environments and live performances.*
 * [PEReN](https://peren.gouv.fr) - Reverse engineering expert (2024-2024)  
   *Centre of expertise for digital platform regulation*
